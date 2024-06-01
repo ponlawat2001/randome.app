@@ -1,5 +1,11 @@
 <template>
-  <div>
-    <NuxtWelcome />
-  </div>
+  <main>
+    <NuxtPage />
+  </main>
 </template>
+
+<style>
+body {
+  margin: 0px;
+}
+</style>
