@@ -1,3 +1,3 @@
 <template>
-    He
+Wheel
 </template>
